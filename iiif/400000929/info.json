@@ -1,0 +1,16 @@
+{
+ "@context": "http://iiif.io/api/image/2/context.json",
+ "@id": "https://eliaskreyenbuehl.github.io/photochrom-images/iiif/400000929",
+ "protocol": "http://iiif.io/api/image",
+ "width": 800,
+ "height": 750,
+ "profile": [
+  "http://iiif.io/api/image/2/level0.json"
+ ],
+ "sizes": [
+  {
+   "width": 300,
+   "height": 281
+  }
+ ]
+}
